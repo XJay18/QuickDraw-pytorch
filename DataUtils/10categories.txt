@@ -1,0 +1,10 @@
+eye
+bicycle
+tree
+eyeglasses
+book
+airplane
+cell_phone
+smiley_face
+apple
+car
