@@ -32,7 +32,7 @@ This is a demo for CNN models training on Quick, Draw! dataset. Implemented with
   
 -  [tfjs-converter](https://github.com/tensorflow/tfjs-converter)
   
--  [pytorch2keras](https://github.com/nerox8664/pytorch2keras) (may be used in future since the current demo is not deployed on web using the first Reference 
+-  [pytorch2keras](https://github.com/nerox8664/pytorch2keras) (may be used in future since the current demo is not deployed on web using the first Reference) 
 
 # TODO
 - [ ] Devise or revise the current model to achieve higher accuracy on [Quick, Draw!](https://github.com/googlecreativelab/quickdraw-dataset).
